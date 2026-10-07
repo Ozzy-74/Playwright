@@ -1,0 +1,11 @@
+{
+    "firstname" : "krishna",
+    "lastname" : "kumar",
+    "totalprice" : 500,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2026-01-01",
+        "checkout" : "2026-09-03"
+        },
+    "additionalneeds" : "Breakfast"
+}
